@@ -1,0 +1,98 @@
+header{
+    background-color: lightskyblue;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+}
+
+header a {
+    background-color: aliceblue;
+    color: blue;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+    padding:10px;
+    
+}
+
+nav{
+    background-color: lightskyblue;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding:5px;
+    text-align: center;
+}
+
+nav a{
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+
+h1{
+    border: 2px solid lightblue;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+.banner {
+    width: 850px;
+}
+
+
+h2{
+    color:blue;
+
+}
+
+.product{
+    background-color: lightskyblue;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+}
+
+.subsections-1{
+    width: 500px;
+    border: 1px solid lightskyblue;
+    border-radius: 10px;}
+
+.boton-contacto{
+    text-decoration: none;
+    border: 2px solid black;
+    padding:8px;
+    font-weight: 600;
+}
+
+.top{
+    color: navy;
+    text-decoration: none;
+    border: 2px solid navy;
+    padding:8px;
+}
+
+.subsections-2{
+    width: 200px;
+
+}
+
+
+footer{
+    background-color: lightblue;
+    padding:10px;
+
+}
+footer p{
+    background-color: white;
+    color: black;
+    padding:10px;
+    border-radius: 10px;
+}
